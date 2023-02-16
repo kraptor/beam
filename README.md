@@ -12,6 +12,8 @@
 
 `beam` is a raytracer implemented in [Nim](https://nim-lang.org)
 
+![Sample image](https://github.com/kraptor/beam/blob/master/images/04.png?raw=true)
+
 The implementation follows closely the book [*The Ray Tracer Challenge*](https://pragprog.com/titles/jbtracer/the-ray-tracer-challenge/) by Jamis Buck.
 
 ## Implementation:
