@@ -70,9 +70,9 @@ The implementation follows closely the book [*The Ray Tracer Challenge*](https:/
     - [ ] Chapter 15
     - [ ] Chapter 16
 
-## Compilation
+## Build
 
-    $ nimble build
+    $ nimble build -d:danger -mm:arc
 
 ## Run tests
 
@@ -80,4 +80,4 @@ The implementation follows closely the book [*The Ray Tracer Challenge*](https:/
 
 ## Run the raytracer
 
-    $ nimble run -d:danger
+    $ nimble run -d:danger -mm:arc
